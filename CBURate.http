@@ -1,0 +1,6 @@
+@CBURate_HostAddress = http://localhost:5150
+
+GET {{CBURate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
